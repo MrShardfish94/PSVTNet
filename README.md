@@ -8,6 +8,6 @@ Visualized results on coinsistent data:
 Visualized results on incoinsistent data:
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/8291dd26e61e4c5ba23309ebfc558a5b.png)
 
-Codes and C-Path4k can be download for the [Baidu Netdisk link](%28https://pan.baidu.com/s/1f5iN1Jyb9K2rpe1hJUAlWg%29)
+Codes and C-Path4k can be download for the [Baidu Netdisk link](https://pan.baidu.com/s/1f5iN1Jyb9K2rpe1hJUAlWg%29)
 
 
